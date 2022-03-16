@@ -1,0 +1,5 @@
+Variables: Es el objeto que se usar para almacenar algun valor, ya sea numero, letras o caracteres.
+Strings: son textos almacenados, incluso los numeros se consideran texto
+Funciones (argumentos, return) los argumentos en funciones son los valores que como users colocamos y así hacer andar el codigo, y el return es la respuesta que nos da el codigo construido previamente
+Declaraciones if: El if es como decir "Sí" en forma de condición, "Sí haces tus deberes" te regalo la play.
+Valores booleanos (true, false): Los valores booleanos son como decirte positvo o negativo, afirmativo o negativo, dependiendo la situación de alguna condición dada anteriormente
